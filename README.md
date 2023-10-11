@@ -4,6 +4,9 @@
 
 This app is available for demo at [LLM Question-Answering Application](https://jacobj215-llm-qna-chat-bot-app-yzhsmu.streamlit.app/)
 
+
+[GitHub](https://github.com/JacobJ215/LLM-QnA-CHAT-BOT)
+
 ## Overview
 
 The LLM Question-Answering Application offers a user-friendly interface for seamlessly extracting insights from documents. Users kickstart the process by providing their OpenAI API keys. Following this, they can upload documents in PDF, DOCX, or TXT formats. The application then begins processing, chunking, and embedding the content employing the `all-MiniLM-L6-v2` model from HuggingFace. This innovative approach ensures users incur no charges for generating embeddings, with processing times averaging between 1 to 2 minutes, contingent on file size and computational resources.
