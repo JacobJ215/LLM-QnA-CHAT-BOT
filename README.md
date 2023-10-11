@@ -23,7 +23,7 @@ Once the document is prepped, the embeddings are securely stored in a vector sto
 
 1. Click [Streamit App](https://jacobj215-llm-qna-chat-bot-app-yzhsmu.streamlit.app/)
 
-2. Enter OpenAI API Key: Since our application uses Open AI's gpt-3.5-turbo, you will be required to enter in your api key
+2. Enter OpenAI API Key: Since our application uses Open AI's `gpt-3.5-turbo`, you will be required to enter in your api key
 
 ![](screenshots/api_auth1.png)
 
@@ -53,7 +53,7 @@ Once the document is prepped, the embeddings are securely stored in a vector sto
 
 4. Access the App: Open a web browser and navigate to http://127.0.0.1:5000/ to access the app.
 
-5. Enter OpenAI API Key: Since our application uses Open AI's gpt-3.5-turbo, you will be required to enter in your api key.
+5. Enter OpenAI API Key: Since our application uses Open AI's `gpt-3.5-turbo`, you will be required to enter in your api key.
 
 6. Upload your document: Upload your document (PDF, DOCX, TXT) by either drag and drop or by browsing your files.
 
